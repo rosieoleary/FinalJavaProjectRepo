@@ -1,0 +1,7 @@
+In this stage, a few extra methods have been created to find the oldest person at the marina
+, the number of boats in each marina and set a marina for a certain boat.
+The latter two methods were completed successfully, unfortunately there was a slight error
+in the oldest person method with turning a integer back to a string and relating it back to 
+the object.
+There were two extra methods I felt I did not have the capability or the time to do well and
+complete successfully.

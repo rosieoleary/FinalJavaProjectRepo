@@ -1,0 +1,3 @@
+These are java documents for creating a Person object and a Visa Information object. 
+A person has attributes of a first name, a sirname, a date of birth and a nationality 
+and also can have a attribute of visa information if they are not British.

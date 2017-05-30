@@ -1,0 +1,2 @@
+In this stage, a Marina object was created. A marina has attributes of name, address and 
+boat capacity. 

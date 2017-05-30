@@ -1,0 +1,4 @@
+In this stage, associations are built between the newly created objects. A method for this 
+has been created in the same class as the objects created. This helps, as object lists were 
+created to store each type of object so the association methods run through these lists 
+successfully.

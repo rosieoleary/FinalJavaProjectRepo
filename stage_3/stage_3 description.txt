@@ -1,0 +1,5 @@
+In this stage, a Boat object was created. A boat has attributes of name, country of origin 
+and size(in standard boatsize). An interface, "Vehicles" was implemented so that methods of
+getSpeed(), accelerate() and decelerate() were inherited. getSpeed() returned the speed. 
+accelerate() increases the speed by one and returns a new speed. decelerate() decreases the
+speed by one and returns the new speed. 

@@ -1,0 +1,11 @@
+There were a number of object oriented design features that were used on this project. One 
+of the most important features was a strong Test Driven Development method. Using the 
+ECLEmma, in eclipse, the test coverage over the whole project was over 92%. This gives 
+confidence to the project and helps identify errors in the code.
+
+The multi-functionality of the code is also strong, especially in the creating objects with 
+input file. With same text format as the stage_5_input.txt, a text file can be used to add 
+boats, people and marinas to the system.
+
+Also the clear names for variables and methods allows static analysis to be completed easier 
+and a better understanding of what each method is trying to accomplish.

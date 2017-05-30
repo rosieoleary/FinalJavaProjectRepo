@@ -1,0 +1,6 @@
+In this stage, some rules were set for associating objects. Each person can be set a boat-
+role of "Captain", "Crew" or "Owner". One person can have multiple boat roles but a 
+"Captain" cannot be a member of the "Crew". Also a boat can have multiple people associated 
+but only one person who has a boatrole of "Captain".
+A boat cannot enter a marina unless there is a person associated with it and it does not 
+exceed the marina boat capacity. A boat can only be associated with one marina.

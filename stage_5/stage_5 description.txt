@@ -1,0 +1,13 @@
+In this stage, some data is read in through a file reading method and creates objects. The 
+method created, works well in creating objects of Marinas and Boats. However the method 
+breaks once the array reaches "Adele". Multiple approaches have been used to try and get 
+around this problem but the final approach is the least specific with the best result from 
+the format. It would work perfectly if every person put through the method had a first and 
+second name.
+
+In the class, ReadInInformation.java, there are 3 methods that are needed to create the 
+objects. The file is read in, the array is created and the array objects are assigned to 
+create objects. To create the objects with a file of the same test format, the only function 
+that is needed is createMarinaObjects("inputFile.txt").
+
+
